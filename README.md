@@ -103,3 +103,24 @@ https://graphql.org/graphql-js/
 - https://dev-blog.apollodata.com/reusable-graphql-schema-directives-131fb3a177d1
 
 - https://itnext.io/graphql-mongoose-a-design-first-approach-d97b7f0c869
+
+#### Medium personal collection
+
+https://itnext.io/building-a-graphql-server-with-node-js-and-express-f8ea78e831f9
+https://medium.com/programming-society-gazette/part-1-api-using-graphql-and-node-js-3423a6004b96
+https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f
+https://medium.com/@hpux/make-web-real-time-with-graphql-subscriptions-5a59ac1b010c
+https://medium.com/open-graphql/using-relay-with-aws-appsync-55c89ca02066
+https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-5b34f5d280f4
+https://medium.com/@sandip21/build-a-graphql-server-from-scratch-using-express-part-1-304341f9adba
+https://medium.com/javascript-in-plain-english/how-to-implement-a-graphql-crud-bff-efcb0117ec71
+https://medium.com/open-graphql/authenticating-an-aws-appsync-graphql-api-with-auth0-48835691810a
+https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d
+https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55
+
+
+
+
+
+
+
