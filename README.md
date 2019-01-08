@@ -120,6 +120,17 @@ https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbce
 
 
 
+https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
+https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491
+https://medium.com/the-notice-board/life-without-redux-using-apollo-for-local-state-d32b020ff4d3
+https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179
+https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2
+https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474
+https://medium.com/crowdbotics/creating-a-graphql-server-with-nodejs-ef9814a7e0e6
+https://medium.com/graphql-mastery/how-to-learn-graphql-react-and-node-js-faster-bdc95e8510c7
+https://medium.freecodecamp.org/graphql-front-end-queries-made-easy-68e9d9ded283
+https://medium.com/graphql-mastery/graphql-list-how-to-use-arrays-in-graphql-schema-graphql-modifiers-309d53b44c6e
+https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3
 
 
 
