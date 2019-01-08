@@ -145,3 +145,16 @@ https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-to
 
 
 
+Mutations and queries
+https://medium.com/graphql-mastery/json-as-an-argument-for-graphql-mutations-and-queries-3cd06d252a04
+Prisma database schema vs Data model
+
+https://www.prisma.io/docs/reference/service-configuration/data-modelling-%28sdl%29-eiroozae8u#prisma-database-schema-vs-data-model
+
+Generate graphQL schema
+https://www.apollographql.com/docs/graphql-tools/generate-schema.html#modularizing
+
+Intro to Apollo GraphQL toolkit
+https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-toolkit-83acab4b8143
+
+
