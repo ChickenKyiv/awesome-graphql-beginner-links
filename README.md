@@ -133,5 +133,15 @@ https://medium.com/graphql-mastery/graphql-list-how-to-use-arrays-in-graphql-sch
 https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3
 
 
+https://medium.com/graphql-mastery/graphql-security-in-node-js-project-4a4d39a1df20
+https://hackernoon.com/relay-modern-testing-queries-8abf400194bc
+https://itnext.io/graphql-made-easy-by-aws-appsync-21dfae586d51
+https://itnext.io/create-your-first-graphql-app-and-set-an-auth-middleware-2dd841f714c2
+https://codeburst.io/create-a-live-comment-feed-with-pusher-and-gatsby-react-graphql-node-js-3db043d4916
+https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5
+https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac
+https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649
+https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-toolkit-83acab4b8143
+
 
 
