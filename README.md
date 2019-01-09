@@ -157,4 +157,5 @@ https://www.apollographql.com/docs/graphql-tools/generate-schema.html#modularizi
 Intro to Apollo GraphQL toolkit
 https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-toolkit-83acab4b8143
 
+https://github.com/hasura/awesome-react-graphql
 
