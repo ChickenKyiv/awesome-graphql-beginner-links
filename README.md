@@ -6,7 +6,7 @@ Basic tutorials:
 
 - GraphQL + Nodejs: https://graphql.org/graphql-js/
 
-
+https://www.producthunt.com/posts/lucid-7?fbclid=IwAR1MWiT51cfqzOl7jO0RVgcRGOzGp3VM_r4qL81IiuSS7BjJf0g1-GdGkw8
 For setting up project, follow:
 https://graphql.org/graphql-js/
 
