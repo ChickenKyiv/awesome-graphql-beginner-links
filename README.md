@@ -212,3 +212,5 @@ https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e (old)
 https://focus.parabol.co/unit-test-your-db-with-graphql-and-jest-d88722b4551e
 
 https://www.apollographql.com/docs/graphql-tools/mocking.html
+
+https://www.youtube.com/watch?v=j9NZ6SlJfp0
