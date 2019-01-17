@@ -204,3 +204,5 @@ https://github.com/apollographql/graphql-tools
 https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491
 
 https://github.com/holidayextras/jsonapi-server
+
+https://itnext.io/graphql-jest-snapshot-testing-7f7345ee2be
