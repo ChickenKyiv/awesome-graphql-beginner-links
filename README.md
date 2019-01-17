@@ -205,4 +205,10 @@ https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d
 
 https://github.com/holidayextras/jsonapi-server
 
-https://itnext.io/graphql-jest-snapshot-testing-7f7345ee2be
+https://itnext.io/graphql-jest-snapshot-testing-7f7345ee2be (coool)
+
+https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e (old)
+
+https://focus.parabol.co/unit-test-your-db-with-graphql-and-jest-d88722b4551e
+
+https://www.apollographql.com/docs/graphql-tools/mocking.html
