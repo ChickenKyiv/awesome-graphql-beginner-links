@@ -107,46 +107,75 @@ https://graphql.org/graphql-js/
 #### Medium personal collection
 
 https://itnext.io/building-a-graphql-server-with-node-js-and-express-f8ea78e831f9
+
 https://medium.com/programming-society-gazette/part-1-api-using-graphql-and-node-js-3423a6004b96
+
 https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f
+
 https://medium.com/@hpux/make-web-real-time-with-graphql-subscriptions-5a59ac1b010c
+
 https://medium.com/open-graphql/using-relay-with-aws-appsync-55c89ca02066
+
 https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-5b34f5d280f4
+
 https://medium.com/@sandip21/build-a-graphql-server-from-scratch-using-express-part-1-304341f9adba
+
 https://medium.com/javascript-in-plain-english/how-to-implement-a-graphql-crud-bff-efcb0117ec71
+
 https://medium.com/open-graphql/authenticating-an-aws-appsync-graphql-api-with-auth0-48835691810a
+
 https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d
+
 https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55
 
 
 
 https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
+
 https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491
+
 https://medium.com/the-notice-board/life-without-redux-using-apollo-for-local-state-d32b020ff4d3
+
 https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179
+
 https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2
+
 https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474
+
 https://medium.com/crowdbotics/creating-a-graphql-server-with-nodejs-ef9814a7e0e6
+
 https://medium.com/graphql-mastery/how-to-learn-graphql-react-and-node-js-faster-bdc95e8510c7
+
 https://medium.freecodecamp.org/graphql-front-end-queries-made-easy-68e9d9ded283
+
 https://medium.com/graphql-mastery/graphql-list-how-to-use-arrays-in-graphql-schema-graphql-modifiers-309d53b44c6e
+
 https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3
 
 
 https://medium.com/graphql-mastery/graphql-security-in-node-js-project-4a4d39a1df20
+
 https://hackernoon.com/relay-modern-testing-queries-8abf400194bc
+
 https://itnext.io/graphql-made-easy-by-aws-appsync-21dfae586d51
+
 https://itnext.io/create-your-first-graphql-app-and-set-an-auth-middleware-2dd841f714c2
+
 https://codeburst.io/create-a-live-comment-feed-with-pusher-and-gatsby-react-graphql-node-js-3db043d4916
+
 https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5
+
 https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac
+
 https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649
+
 https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-toolkit-83acab4b8143
 
 
 
 Mutations and queries
 https://medium.com/graphql-mastery/json-as-an-argument-for-graphql-mutations-and-queries-3cd06d252a04
+
 Prisma database schema vs Data model
 
 https://www.prisma.io/docs/reference/service-configuration/data-modelling-%28sdl%29-eiroozae8u#prisma-database-schema-vs-data-model
@@ -159,3 +188,19 @@ https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-to
 
 https://github.com/hasura/awesome-react-graphql
 
+#### Testing
+https://spectrum.chat/graphql/general/graphql-types-queries-and-mutations-testing-server-side-node~bc1bc7f5-5408-4239-a939-60e84f0e8428
+
+https://github.com/APIs-guru/graphql-faker
+
+https://github.com/graphql-boilerplates/react-fullstack-graphql/blob/master/advanced/server/src/schema.graphql
+
+https://github.com/KATT/shop/blob/master/api/src/server.spec.ts#L34-L51
+
+https://medium.freecodecamp.org/mocking-graphql-with-graphql-tools-42c2dd9d0364
+
+https://github.com/apollographql/graphql-tools
+
+https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491
+
+https://github.com/holidayextras/jsonapi-server
