@@ -214,3 +214,29 @@ https://focus.parabol.co/unit-test-your-db-with-graphql-and-jest-d88722b4551e
 https://www.apollographql.com/docs/graphql-tools/mocking.html
 
 https://www.youtube.com/watch?v=j9NZ6SlJfp0
+
+## import ??
+https://github.com/prisma/graphql-request#passing-more-options-to-fetch
+
+https://github.com/larsbs/graysql
+
+https://www.prisma.io/features/bindings/
+
+http://www.jexp.de/blog/html/better-data-import-with-graphql-introducing-graphql-load.html
+
+https://github.com/hasura/graphql-engine/tree/master/community/tools/json2graphql
+
+https://marmelab.com/blog/2017/07/12/json-graphql-server.html
+
+https://medium.com/the-ideal-system/graphql-and-mongodb-a-quick-example-34643e637e49
+
+https://www.graph.cool/docs/reference/data-import-and-export/data-import-ol2eoh8xie
+
+https://www.prisma.io/forum/t/unable-to-import-json-data-using-graphcool-cli-or-raw-import-endpoint/3281
+
+https://github.com/prisma/prisma/issues/92
+
+https://github.com/prisma/prisma/issues/1408
+
+https://medium.freecodecamp.org/learn-to-build-a-graphql-server-with-minimal-effort-fc7fcabe8ebd
+
