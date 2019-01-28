@@ -12,6 +12,7 @@ https://graphql.org/graphql-js/
 
 
 # Other links for further reading
+- FB Spec: https://facebook.github.io/graphql/draft/
 
 - https://graphql.github.io/learn/best-practices/
 
