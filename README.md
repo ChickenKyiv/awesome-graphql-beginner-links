@@ -241,3 +241,6 @@ https://github.com/prisma/prisma/issues/1408
 
 https://medium.freecodecamp.org/learn-to-build-a-graphql-server-with-minimal-effort-fc7fcabe8ebd
 
+
+
+https://github.com/matusmarcin/graphql-intro
