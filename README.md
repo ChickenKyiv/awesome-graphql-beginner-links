@@ -173,6 +173,8 @@ https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-
 https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-toolkit-83acab4b8143
 
 
+https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46
+
 
 Mutations and queries
 https://medium.com/graphql-mastery/json-as-an-argument-for-graphql-mutations-and-queries-3cd06d252a04
