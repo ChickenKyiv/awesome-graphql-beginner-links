@@ -175,18 +175,19 @@ https://graphql.org/graphql-js/
 
 - https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46
 
+- https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46
 
-Mutations and queries
+#### Mutations and queries
 - https://medium.com/graphql-mastery/json-as-an-argument-for-graphql-mutations-and-queries-3cd06d252a04
 
-Prisma database schema vs Data model
+#### Prisma database schema vs Data model
 
 - https://www.prisma.io/docs/reference/service-configuration/data-modelling-%28sdl%29-eiroozae8u#prisma-database-schema-vs-data-model
 
-Generate graphQL schema
+#### Generate graphQL schema
 - https://www.apollographql.com/docs/graphql-tools/generate-schema.html#modularizing
 
-Intro to Apollo GraphQL toolkit
+#### Intro to Apollo GraphQL toolkit
 - https://medium.freecodecamp.org/a-complete-introduction-to-apollo-the-graphql-toolkit-83acab4b8143
 
 - https://github.com/hasura/awesome-react-graphql
@@ -218,7 +219,7 @@ Intro to Apollo GraphQL toolkit
 
 - https://www.youtube.com/watch?v=j9NZ6SlJfp0
 
-## import ??
+#### import ??
 - https://github.com/prisma/graphql-request#passing-more-options-to-fetch
 
 - https://github.com/larsbs/graysql
